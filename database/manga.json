@@ -1,0 +1,44 @@
+{
+  "manga_id": "dragonslayer-peerless-regression-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "회귀한 용살자의 독보적 뉴비생활",
+  "status": "Ongoing",
+  "author": "Yu Sejin",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Bahkan setelah mengalahkan Naga Jahat yang membawa kehancuran bagi dunia, pahlawan kita menghembuskan napas terakhirnya karena kutukan sang Naga. Namun, ketika dia membuka matanya lagi, dia mendapati dirinya kembali ke masa lalu sebelum invasi dimulai. Dengan ingatan, pengalaman, dan kekuatan dari kehidupan sebelumnya, dia bersumpah untuk mengubah takdir dan menyelamatkan semua orang kali ini.",
+  "cover_url": "https://raw.githubusercontent.com/username/repo/main/assets/covers/dragonslayer.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kembalinya Sang Pembunuh Naga",
+      "pages": [
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/1/page_001.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/1/page_002.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/1/page_003.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/1/page_004.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/1/page_005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Langkah Pertama yang Berbeda",
+      "pages": [
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/2/page_001.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/2/page_002.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/2/page_003.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/2/page_004.jpg",
+        "https://raw.githubusercontent.com/username/repo/main/assets/chapters/2/page_005.jpg"
+      ]
+    }
+  ]
+}
